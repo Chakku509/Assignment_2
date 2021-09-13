@@ -1,1 +1,3 @@
 This is in the master branch
+
+Switch to another branch named as newbranch
